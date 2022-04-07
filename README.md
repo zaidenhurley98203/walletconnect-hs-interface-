@@ -1,0 +1,1 @@
+# walletconnect-hs-interface-
